@@ -1,0 +1,118 @@
+body
+{
+    padding:100px;
+    background-image:url(star.webp); 
+background-repeat: no-repeat;
+background-size: cover;
+}
+#neptune{
+width:900px;
+height:900px;
+border:1px solid rgb(239, 236, 236);
+border-radius: 50%;
+
+}
+#neptune_pic
+{
+border-radius: 50%;
+width: 120px;
+top:30px;
+margin-left: 40%;
+}
+#uranus{
+    width:800px;
+    height:800px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#uranus_pic
+{
+border-radius: 50%;
+width:70px;
+margin-top:-40px ;
+margin-left: 20%;
+}
+#saturn{
+    width:700px;
+    height:700px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#saturn_pic
+{
+border-radius: 50%;
+width:120px;
+margin-top:-50px ;
+margin-left:-10px;
+}
+#jupiter{
+    width:600px;
+    height:600px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#jupiter_pic
+{
+border-radius: 50%;
+width:60px;
+margin-top:50px ;
+margin-left:380px;
+}
+#mars{
+    width:500px;
+    height:450px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#mars_pic
+{
+border-radius: 50%;
+width:60px;
+margin-top:-20px ;
+margin-left:120px;
+}
+#earth{
+    width:400px;
+    height:350px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#earth_pic
+{
+border-radius: 50%;
+width:60px;
+margin-top:-30px ;
+margin-left:-10px;
+}
+#venus{
+    width:300px;
+    height:250px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#venus_pic
+{
+border-radius: 50%;
+width:100px;
+margin-top:10px ;
+margin-left:200px;
+}#mercury{
+    width:200px;
+    height:150px;
+    border:1px solid rgb(239, 236, 236);
+    border-radius: 50%;
+}
+#mercury_pic
+{
+border-radius: 50%;
+width:100px;
+margin-top:-15px ;
+margin-left:40px;
+}
+#sun_pic
+{
+border-radius: 50%;
+width:150px;
+margin-top:-8px ;
+margin-left:-10px;
+}
